@@ -2,3 +2,19 @@
     background-color: lightpink;
     font-family: Verdana,'DejaVu Sans', sans-serif;
 }
+
+.specifika {
+    font-size: 24px;
+}
+
+#iden1 {
+    color: blue;
+    font-size: 36px;
+}
+
+#iden2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
+
